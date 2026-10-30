@@ -29,7 +29,7 @@
   <img src="./profile/top-langs.svg" alt="Most used languages">
 </p>
 
-## Outside of the code
+## Outside the code
 
 <p align="center">
   <a href="https://www.faceit.com/fr/players/-benjamiN-"><img src="https://img.shields.io/badge/CS2-FACEIT_10-FF5500?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT niveau 10"></a>
