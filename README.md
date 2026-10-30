@@ -1,7 +1,7 @@
 <h1 align="center">👋</h1>
 
 <p align="center">
-  Software engineering student powered by my beloved Claude<br>
+  Software engineering student - I like things that are well thought out and fast.<br>
 </p>
 
 <p align="center">
