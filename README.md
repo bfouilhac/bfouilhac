@@ -29,7 +29,3 @@
   <a href="https://www.faceit.com/fr/players/TON_PSEUDO_FACEIT"><img src="https://img.shields.io/badge/CS2-FACEIT_10-FF5500?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT niveau 10"></a>
   <img src="https://img.shields.io/badge/Overwatch-ex_Top_500-F99E1A?style=for-the-badge" alt="Overwatch ex Top 500">
 </p>
-
-- Joueur compétitif multi-jeux : CS2, Valorant, Overwatch, LoL, Deadlock
-- J'héberge les serveurs Minecraft moddés de mes potes
-- Toujours en train d'optimiser quelque chose : settings, routines d'aim, configs PC
